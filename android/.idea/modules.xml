@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/newsTest.iml" filepath="$PROJECT_DIR$/.idea/modules/newsTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1685463979/newsTest.@react-native-google-signin_google-signin.iml" filepath="$PROJECT_DIR$/.idea/modules/1685463979/newsTest.@react-native-google-signin_google-signin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/newsTest.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/newsTest.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/666670376/newsTest.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/666670376/newsTest.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1685463979/newsTest.react-native-google-signin_google-signin.iml" filepath="$PROJECT_DIR$/.idea/modules/1685463979/newsTest.react-native-google-signin_google-signin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1371472785/newsTest.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/1371472785/newsTest.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/281900265/newsTest.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/281900265/newsTest.react-native-screens.iml" />
+    </modules>
+  </component>
+</project>

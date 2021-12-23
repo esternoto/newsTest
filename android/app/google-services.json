@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "86568945093",
+    "project_id": "testester-75d28",
+    "storage_bucket": "testester-75d28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86568945093:android:78edcad595e80e5a0d37ac",
+        "android_client_info": {
+          "package_name": "com.newstest.ester"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86568945093-4cj0n2qhskf2t5hd84eet74phb8mqssn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.newstest.ester",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "86568945093-f3tci2ral8g30a50933bfptiuqk1p2jd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQQlqfK8FpzaBxwEP3pWzwWrUe3G1pEkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86568945093-f3tci2ral8g30a50933bfptiuqk1p2jd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
